@@ -45,13 +45,43 @@ let mascota = {
 }
 console.log(mascota.hobby)
 console.log(mascota) */
-let frutas = ['Pera', 'Limón', 'Pomelo', 'Kiwi', 'Sandía']
+/* const frutas = ['Pera', 'Limón', 'Pomelo', 'Kiwi', 'Sandía']
 console.log(frutas)
 console.log(frutas[4])
-let números = [7, 2, 13, 22, 28]
+const números = [7, 2, 13, 22, 28]
 console.log(números)
 console.log(números[2])
-let familia = ['hija', 'hermana', 'madre', 'padre', 'abuela']
+const familia = ['hija', 'hermana', 'madre', 'padre', 'abuela']
 console.log(familia[1])
 let textoAleatorio = frutas[1] + ' ' + números[3] + ' ' + familia[4]
-console.log(textoAleatorio)
+console.log(textoAleatorio) */
+
+/* let miEdad = Number(prompt('Ingrese su edad: '))
+let edadCompañero = Number(prompt('Ingrese edad de su compañero: '))
+let edadesIguales = miEdad == edadCompañero
+let soyMayor = miEdad > edadCompañero
+let soyMenor = miEdad < edadCompañero
+
+console.log('a. Mi edad es igual a la de mi compañero: '+ edadesIguales)
+console.log('b. Mi edad es mayor a la de mi compañero: '+ soyMayor)
+console.log('a. Mi edad es igual a la de mi compañero: '+ soyMenor) */
+
+/* let miEdad = Number(prompt('Ingrese su edad: '))
+let soyMayorDeEdad = miEdad >= 18
+
+console.log('Soy mayor de edad: '+ soyMayorDeEdad) */
+
+/* let miEdad = Number(prompt('Ingrese su edad: '))
+let miEstatura = Number(prompt('Ingrese su estatura en cm: '))
+let puedeSubir = miEdad >= 6 && miEstatura >= 120
+console.log('Puede subir a la atracción: ' + puedeSubir) */
+
+/* let miPase = prompt('Si posee pase VIP presione S, de lo contrario N: ')
+let paseVip = miPase == 'S' || miPase == 's'
+let miSaldo = Number(prompt('Ingrese su saldo ($): '))
+let puedePasar = paseVip || miSaldo >= 1000s
+800
+console.log('La persona puede pasar: ' + puedePasar)
+
+ */
+
